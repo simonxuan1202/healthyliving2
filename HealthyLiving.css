@@ -37,7 +37,7 @@ nav a {
 
 .hero {
     position: relative;
-    background: url('Image/healthyliving.jpg') no-repeat center center / cover;
+    background: url('../Image/healthyliving.jpg') no-repeat center center / cover;
     text-align: center;
     padding: 100px 20px 60px;
     z-index: 1;
