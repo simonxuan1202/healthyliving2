@@ -144,7 +144,7 @@ nav a {
 
 /* Unique card background images */
 .card-sleep {
-    background-image: url('image/sleep.jpg');
+    background-image: url('sleep.jpg');
 }
 
 .card-nutrition {
@@ -156,7 +156,7 @@ nav a {
 }
 
 .card-bmi {
-    background-image: url('image/bmicalculator.jpg');
+    background-image: url('bmicalculator.jpg');
 }
 
 .card-care {
