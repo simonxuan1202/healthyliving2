@@ -148,11 +148,11 @@ nav a {
 }
 
 .card-nutrition {
-    background-image: url('image/nutrition.jpg');
+    background-image: url('nutrition.jpg');
 }
 
 .card-fitness {
-    background-image: url('image/fitness.jpg');
+    background-image: url('fitness.jpg');
 }
 
 .card-bmi {
@@ -160,7 +160,7 @@ nav a {
 }
 
 .card-care {
-    background-image: url('image/care.png');
+    background-image: url('care.png');
 }
 
 .card-community {
